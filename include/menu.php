@@ -10,7 +10,7 @@
             <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                 <li class="nav-item"><a class="nav-link" href="index.php?page=home">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="index.php?page=quemsomos">Quem Somos</a></li>
-                <li class="nav-item"><a class="nav-link" href="index.php?page=produtos-lista">Produtos</a></li>
+                <li class="nav-item"><a class="nav-link" href="index.php?page=produtoslista">Produtos</a></li>
                 <li class="nav-item"><a class="nav-link" href="index.php?page=contato">Contato</a></li>
             </ul>
         </div>

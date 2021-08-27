@@ -4,6 +4,8 @@
 ## Aluno Bruno Cabral
 ## 1645027-5
 
+> Status: completed project 🚀 
+
 > Status: Developing ⚠️
 
 #### Tecnologies Used:
@@ -13,13 +15,22 @@
         <td>HTML</td>
         <td>CSS</td>
         <td>Bootstrap</td>
+        <td>ECMAScript</td>
         <td>PHP</td>
     </tr>
     <tr>
         <td>5</td>
         <td>3</td>
         <td>5</td>
+        <td>6</td>
         <td>7</td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><img width="300" src="http://wora.com.br/unicesumar/cake-doces-e-bolos-3.png" alt="projeto site Bruno Cabral" ></td>
+         <td><img width="500" src="http://wora.com.br/unicesumar/layout-site.jpg" alt="projeto site Bruno Cabral" ></td>
     </tr>
 </table>
 
@@ -43,4 +54,43 @@
  
 <em>METRÓPOLES. A real dificuldade das micro e pequenas empresas no atual cenário. Metrópoles, 2020. Disponível em: https://www.metropoles.com/dino/a-real-dificuldade-das-micro-e-pequenas-empresas-no-atual-cenario. Acesso em: 12 jul. 2021.</em>
 
+<table>
+    <tr>
+        <td>Utilizados</td>
+        <td>Fonte</td>
+    </tr>  
+    <tr>
+        <td>icone para logotipo</td>
+        <td>https://www.flaticon.com/premium-icon/cupcake_2876077</td>
+    </tr> 
+    <tr>
+        <td>imagens doces docinhos</td>
+        <td>https://pixabay.com/pt/photos/bolo-de-bolas-sobremesa-doces-4139982/</td>
+    </tr> 
+    <tr>
+        <td>cupcakes de morango</td>
+        <td>https://pixabay.com/pt/photos/sobremesa-bolos-de-copo-comida-352475/</td>
+    </tr> 
+    <tr>
+        <td>bolos de morango</td>
+        <td>https://pixabay.com/pt/photos/eclair-bolo-de-morango-morangos-3366430/</td>
+    </tr> 
+    <tr>
+        <td>Muffins de Mirtilo</td>
+        <td>https://pixabay.com/pt/photos/queques-muffins-de-mirtilo-bolos-3370959/</td>
+    </tr> 
+    <tr>
+        <td>cupcakes de baunilha</td>
+        <td>https://pixabay.com/pt/photos/bolos-de-copo-baunilha-geada-2250367/</td>
+    </tr> 
+    <tr>
+        <td>torta de limão e framboesa</td>
+        <td>https://pixabay.com/pt/photos/bolo-lima-framboesa-1283824/</td>
+    </tr> 
+    <tr>
+        <td>Tema utilizado como base bootstrap.</td>
+        <td>https://startbootstrap.com/theme/agency</td>
+    </tr> 
+</table>
 
+Thanks! ❤️

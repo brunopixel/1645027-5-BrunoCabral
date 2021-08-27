@@ -10,9 +10,10 @@
 <!-- produtos em destaque -->
 <div class="container">
     <div class="row">
-        <div class="col-md-12">
-            - lista dos 6 produtos
+        <div class="text-center">
+            <h2 class="section-heading text-uppercase mt-5">Produtos em Destaque</h2>
         </div>
+        <?php include_once("pages/produtos.php"); ?>
     </div>
 </div>
 

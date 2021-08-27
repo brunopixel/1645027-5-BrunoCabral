@@ -13,9 +13,12 @@
         case 'quemsomos':
             include 'pages/quem-somos.php';
             break;
-        case 'produtos-lista':
+        case 'produtoslista':
             include 'pages/produtos-lista.php';
             break;
+        case 'produtounico':
+            include 'pages/produto-unico.php';
+            break;  
         case 'contato':
             include 'pages/contato.php';
             break;

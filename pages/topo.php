@@ -5,7 +5,7 @@ switch($paginaInterna):
     case 'quemsomos':
         $nometela = "Quem Somos";
         break;
-    case 'produtos-lista':
+    case 'produtoslista':
         $nometela = "Produtos";
         break;
     case 'contato':

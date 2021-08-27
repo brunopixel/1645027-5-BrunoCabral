@@ -238,6 +238,7 @@ html {
 .area-horario{
     background-color: #e9ecef;
     padding: 100px 0px;
+    margin-top: 150px;
 }
 .imgCakeFlutuante{
     z-index: 999;
@@ -279,4 +280,15 @@ html {
       font-size: 3rem;
       font-weight: 700;
     }
+  }
+
+/* doces lista card */
+  .docesLista{
+      padding: 20px 10px;
+      margin: 0px 0px;
+  }
+
+  .produtos-lista{
+    margin: 100px 0px;
+    padding: 0px 0px;
   }
