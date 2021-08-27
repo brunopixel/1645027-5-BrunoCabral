@@ -1,9 +1,27 @@
 <h1>Projeto - MAPA - PROGRAMAÇÃO BACK END I - 53/2021</h1>
 
-## 1645027-5-BrunoCabral
 ## CURSO - SUPERIOR DE TECNOLOGIA EM SISTEMAS PARA INTERNET
+## Aluno Bruno Cabral
+## 1645027-5
 
 > Status: Developing ⚠️
+
+#### Tecnologies Used:
+
+<table>
+    <tr>
+        <td>HTML</td>
+        <td>CSS</td>
+        <td>Bootstrap</td>
+        <td>PHP</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>3</td>
+        <td>5</td>
+        <td>7</td>
+    </tr>
+</table>
 
 ### Analise o Estudo de Caso a seguir:
 #### A real dificuldade das micro e pequenas empresas no atual cenário 
@@ -26,19 +44,3 @@
 <em>METRÓPOLES. A real dificuldade das micro e pequenas empresas no atual cenário. Metrópoles, 2020. Disponível em: https://www.metropoles.com/dino/a-real-dificuldade-das-micro-e-pequenas-empresas-no-atual-cenario. Acesso em: 12 jul. 2021.</em>
 
 
-#### Tecnologies Used:
-
-<table>
-    <tr>
-        <td>HTML</td>
-        <td>CSS</td>
-        <td>Bootstrap</td>
-        <td>PHP</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>3</td>
-        <td>5</td>
-        <td>7</td>
-    </tr>
-</table>
